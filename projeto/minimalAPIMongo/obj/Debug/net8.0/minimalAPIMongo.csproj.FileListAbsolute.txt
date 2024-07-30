@@ -1,0 +1,7 @@
+C:\Users\71384227415\Desktop\projeto\minimalAPIMongo\obj\Debug\net8.0\minimalAPIMongo.csproj.AssemblyReference.cache
+C:\Users\71384227415\Desktop\projeto\minimalAPIMongo\obj\Debug\net8.0\minimalAPIMongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\71384227415\Desktop\projeto\minimalAPIMongo\obj\Debug\net8.0\minimalAPIMongo.AssemblyInfoInputs.cache
+C:\Users\71384227415\Desktop\projeto\minimalAPIMongo\obj\Debug\net8.0\minimalAPIMongo.AssemblyInfo.cs
+C:\Users\71384227415\Desktop\projeto\minimalAPIMongo\obj\Debug\net8.0\minimalAPIMongo.csproj.CoreCompileInputs.cache
+C:\Users\71384227415\Desktop\projeto\minimalAPIMongo\obj\Debug\net8.0\minimalAPIMongo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\71384227415\Desktop\projeto\minimalAPIMongo\obj\Debug\net8.0\minimalAPIMongo.MvcApplicationPartsAssemblyInfo.cache
